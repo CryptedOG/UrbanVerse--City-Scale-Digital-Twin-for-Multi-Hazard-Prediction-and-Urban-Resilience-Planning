@@ -176,7 +176,7 @@ UrbanVerse was built collaboratively by a 4-member team during a 24-hour hackath
 | Member & Role | Primary Focus & Deliverables |
 | :--- | :--- |
 | **Member 1: Backend & Integration Lead** *(Pratham U)* | Architecture coordination, FastAPI production backend, 7 API routes, P1–P4 composite risk engine, and the 21-test verification suite. |
-| **Member 2: Frontend & 3D Digital Twin** | User interface layout, 2D Leaflet GIS map integration, 3D Three.js terrain platform modeling, dynamic water rise, and scenario slider controls. |
+| **Member 2: Frontend & 3D Digital Twin** *(Rakshita Shet)* | User interface layout, 2D Leaflet GIS map integration, 3D Three.js terrain platform modeling, dynamic water rise, and scenario slider controls. |
 | **Member 3: GIS Data & Map Integration** *(Rakshan Kulal)* | GeoJSON RFC 7946 pilot area modeling, Overpass API OpenStreetMap dataset curation (Pumpwell, Nanthoor, Surathkal), and 30m DEM raster elevation processing. |
 | **Member 4: Flood Simulation & Risk Logic** *(Shreyas Kottary)* | Weighted Multi-Criteria Evaluation (MCE) hydraulic simulation engine, factor normalization algorithms, and simulation unit tests. |
 
