@@ -128,7 +128,7 @@ Interactive Swagger UI documentation is available live at **`http://localhost:80
 
 ### 1. Clone & Enter Repository
 ```bash
-git clone https://github.com/CryptedOG/UrbanVerse.git
+git clone https://github.com/U-Pratham/UrbanVerse.git
 cd UrbanVerse
 ```
 
